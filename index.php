@@ -10,6 +10,7 @@ $message = "Welcome from CI/CD demo - Version 1";
 
 <body>
     <h1><?php echo $message; ?></h1>
-    <p>This page was deployed using Jenkins pipeline.</p>
+    
+    <p>This page was updated and re-deployed using Jenkins.</p>
 </body>
 </html>
